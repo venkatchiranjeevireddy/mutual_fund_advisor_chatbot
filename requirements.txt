@@ -1,0 +1,15 @@
+sentence-transformers>=2.2.2
+transformers>=4.25.1
+huggingface_hub>=0.15.0,<0.17.0
+gradio==3.41.2
+faiss-cpu==1.7.4
+requests==2.31.0
+pdfminer.six==20221105
+torch==2.0.1
+streamlit
+python-dotenv
+requests
+pypdf
+groq
+openai
+openai-agents
